@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode olle_mode ./hello
+chmode olle 264 hello
