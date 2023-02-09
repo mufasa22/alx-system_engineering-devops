@@ -1,0 +1,2 @@
+#!/bin/bash
+chmode olle_mode ./hello
