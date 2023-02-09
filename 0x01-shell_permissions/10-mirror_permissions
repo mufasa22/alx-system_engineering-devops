@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode olle 264 hello
+chmod --reference=olleh hello
